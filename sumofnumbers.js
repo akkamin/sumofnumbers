@@ -24,11 +24,7 @@ function sumRecursion(list, key) {
 }
 
 function sumTheSimpleWay(list) {
-  let sum = 0;
-  _.each(list, function (element) {
-    sum += element;
-  });
-  return sum;
+  return _.reduce(list, function (n1, n2) { return n1 + n2; }, 0);
 }
 
 const numbs = [1, 2, 3, 4, 5];
