@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01a7151c-ec33-4f2f-a51c-3118edb55dbc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/sumofnumbers.js" afterPath="$PROJECT_DIR$/sumofnumbers.js" />
+      <change beforePath="$PROJECT_DIR$/sumofnumbers.iml" afterPath="$PROJECT_DIR$/sumofnumbers.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
